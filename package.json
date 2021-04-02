@@ -1,0 +1,16 @@
+{
+  "name": "bayimco-notifier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "lucatk",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "axios-cookiejar-support": "^1.0.1",
+    "cheerio": "^1.0.0-rc.5",
+    "node-telegram-bot-api": "^0.52.0",
+    "tough-cookie": "^4.0.0",
+    "uuid": "^8.3.2"
+  }
+}
